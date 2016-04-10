@@ -14,7 +14,7 @@
 天才大师级：这个级别的神人估计是不需要看书的。天才的世界不是我等凡人可以窥测的。
 
 ####一、[《24小时365天不间断服务》](http://www.jianshu.com/p/7a633fdada4f)
-![]()
+![](https://github.com/zijingshanke/perf-master/blob/master/book/724365/724365-1.png)
 
 ####二、[《性能之巅》](http://www.jianshu.com/p/7a633fdada4f)
 ![](https://github.com/zijingshanke/perf-master/blob/master/book/sysperf/s28283455.jpg)
