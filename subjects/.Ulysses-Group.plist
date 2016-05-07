@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Linux主机性能评估.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>482517143.01902997</real>
+				<key>version</key>
+				<dict>
+					<key>08631ddd4622f9939f5e154c67c9fe0be8c24ab0d2b3ccd4c75264b2b1a69e24</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Linux主机性能评估.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>08631ddd4622f9939f5e154c67c9fe0be8c24ab0d2b3ccd4c75264b2b1a69e24</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
